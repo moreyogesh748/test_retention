@@ -29,3 +29,6 @@ flows:
   - name: amp-ae-appdata-video-content-aggregates-abm-2y
     schedule:0 43 16 * * ?
     concurrency: skip
+  - name: amp-ae-appdata-video-content-aggregates-abm-2y
+    schedule: 0 43 16 * * ?
+    concurrency: skip
