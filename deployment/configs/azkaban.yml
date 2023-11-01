@@ -1,15 +1,1 @@
-name: amp-hadoop-sre-retention
-adminUsers:
-  - vsaraf
-adminGroups:
-  - hdp-amp-analytics-sre
-flows:
-  - name: delete-ae-core-subscription-ds
-    schedule: 0 0 0 * * ?
-    concurrency: skip
-  - name: delete-ingest-mozart
-    schedule: 0 0 0 * * ?
-    concurrency: skip
-  - name: delete-data-platform-jdata-snapshot
-    schedule: 0 0 0 * * ?
-    concurrency: skip
+New content
