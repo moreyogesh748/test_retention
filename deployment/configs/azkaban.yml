@@ -22,3 +22,6 @@ flows:
   - name:delete-amp-ae-appdata-video-content-aggregates-abm-2y
     schedule:
     concurrency: skip
+  - name: delete-amp-ae-appdata-video-content-aggregates-abm-2y
+    schedule:
+    concurrency: skip
