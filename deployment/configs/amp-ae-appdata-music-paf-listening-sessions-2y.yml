@@ -7,3 +7,4 @@ captureDateRegexp: event_end_date_local=(\d{4}-\d{2}-\d{2})
 dateFormat: yyyy-MM-dd
 dryRun: false
 recursiveSearch: false
+adding new line
