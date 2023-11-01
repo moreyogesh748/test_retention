@@ -16,3 +16,6 @@ flows:
 
 - New line 1
 - New line 2
+  - name:
+    schedule:
+    concurrency: skip
