@@ -13,3 +13,6 @@ flows:
   - name: delete-data-platform-jdata-snapshot
     schedule: 0 0 0 * * ?
     concurrency: skip
+
+- New line 1
+- New line 2
