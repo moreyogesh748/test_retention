@@ -38,3 +38,6 @@ flows:
   - name: amp-ae-music-agg-v2-30d
     schedule: 0 43 10 * * ?
     concurrency: skip
+  - name: amp-popularity-hadoop-aggregates-v1-ContentDeepDivePlayBatchAggregator-7d
+    schedule: 0 53 10 * * ?
+    concurrency: skip
