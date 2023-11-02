@@ -35,3 +35,6 @@ flows:
   - name: amp-ae-appdata-video-content-aggregates-abm-2y
     schedule: 0 43 10 * * ?
     concurrency: skip
+  - name: amp-ae-music-agg-v2-30d
+    schedule: 0 43 10 * * ?
+    concurrency: skip
