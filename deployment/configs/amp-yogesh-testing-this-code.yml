@@ -1,0 +1,9 @@
+name: amp-yogesh-testing-this-code
+parentDirs:
+- /group/testing/this/code
+retentionDays: '300'
+retentionDirs: '0'
+captureDateRegexp: sasandjn
+dateFormat: yyyy-mm-dd
+dryRun: false
+recursiveSearch: false

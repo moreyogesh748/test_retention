@@ -1,0 +1,9 @@
+name: amp-ae-appdata-apps-search-appstore-daily-25m
+parentDirs:
+- /group/test/example/for/today
+retentionDays: '300'
+retentionDirs: '0'
+captureDateRegexp: rapt_dt=(d/{4}-d/{2}-d/{2})
+dateFormat: yyyy-MM-dd
+dryRun: false
+recursiveSearch: false
