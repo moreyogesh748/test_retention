@@ -41,3 +41,6 @@ flows:
   - name: amp-popularity-hadoop-aggregates-v1-ContentDeepDivePlayBatchAggregator-7d
     schedule: 0 53 10 * * ?
     concurrency: skip
+  - name: amp-ae-payments-commerce-t2-commerce-purchase-incremental-billing-v3-final-2y
+    schedule: 0 10 1 * * ?
+    concurrency: skip
