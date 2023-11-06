@@ -47,3 +47,6 @@ flows:
   - name: amp-ae-appdata-video-t2-content-genome-subscriptions-snapshot-v1-10d
     schedule: * 10 2 * * ?
     concurrency: skip
+  - name: amp-ae-appdata-video-t2-content-genome-show-completion-aggregate-DAILY-v1-10d
+    schedule: ******
+    concurrency: skip
