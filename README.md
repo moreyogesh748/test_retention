@@ -9,5 +9,5 @@ Just provide,
 2. Retention days
 3. Column name on which partitioning is done & written on HDFS
 
-provide the above information and it will generate yaml file, delete job file for azkaban and update azkaban.yml with schdule.
-also, the program will raise PR and can be merged as well. (for now, merge option is disabled in order to review by SRE)
+Provide the above information and it will generate yaml file, delete job file for azkaban and update azkaban.yml with schdule into repository.
+also, the program will raise PR for you and can be merged as well. (for now, merge option is disabled in order to review by SRE)
