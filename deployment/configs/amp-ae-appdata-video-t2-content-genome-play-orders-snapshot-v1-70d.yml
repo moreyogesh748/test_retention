@@ -1,9 +1,0 @@
-name: amp-ae-appdata-video-t2-content-genome-play-orders-snapshot-v1-70d
-parentDirs:
-- /group/amp_ae_appdata_video/t2/content/genome/play_orders/snapshot/v1
-retentionDays: '70'
-retentionDirs: '0'
-captureDateRegexp: rptg_dt=
-dateFormat: yyyy-MM-dd
-dryRun: false
-recursiveSearch: false
