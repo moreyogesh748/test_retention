@@ -1,9 +1,0 @@
-name: amp-ae-appdata-video-t2-content-genome-subscriptions-snapshot-v1-10d
-parentDirs:
-- /group/amp_ae_appdata_video/t2/content/genome/subscriptions/snapshot/v1
-retentionDays: '10'
-retentionDirs: '0'
-captureDateRegexp: (20\d{6})
-dateFormat: yyyyMMdd
-dryRun: false
-recursiveSearch: false
