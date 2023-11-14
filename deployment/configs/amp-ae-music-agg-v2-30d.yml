@@ -1,9 +1,0 @@
-name: amp-ae-music-agg-v2-30d
-parentDirs:
-- /group/amp_ae_music/agg/v2
-retentionDays: '30'
-retentionDirs: '0'
-captureDateRegexp: rptg_dt=(d/{4}-d/{2}-d/{2})
-dateFormat: yyyy-mm-dd
-dryRun: false
-recursiveSearch: false

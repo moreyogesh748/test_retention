@@ -1,9 +1,0 @@
-name: amp-popularity-hadoop-aggregates-v1-ContentDeepDivePlayBatchAggregator-7d
-parentDirs:
-- /group/amp_popularity_hadoop/popularity/aggregates/v1/ContentDeepDivePlayBatchAggregator
-retentionDays: '7'
-retentionDirs: '0'
-captureDateRegexp: date=(\d{4}-\d{2}-\d{2})
-dateFormat: yyyy-mm-dd
-dryRun: false
-recursiveSearch: false

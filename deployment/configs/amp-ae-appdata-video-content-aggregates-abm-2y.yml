@@ -1,9 +1,0 @@
-name: amp-ae-appdata-video-content-aggregates-abm-2y
-parentDirs:
-- /group/amp_ae_appdata_video/content/aggregates/v1/area-based-marketing/aggregate/DAILY/
-retentionDays: '730'
-retentionDirs: '0'
-captureDateRegexp: rptgLocalDate=(\d{4}-\d{2}-\d{2})
-dateFormat: yyyy-MM-dd
-dryRun: false
-recursiveSearch: false
