@@ -1,9 +1,0 @@
-name: amp-ae-appdata-video-t2-content-genome-show-completion-aggregate-DAILY-v1-10d
-parentDirs:
-- /group/amp_ae_appdata_video/t2/content/genome/show-completion/aggregate/DAILY/v1
-retentionDays: '10'
-retentionDirs: '0'
-captureDateRegexp: rptg_dt=
-dateFormat: yyyy-MM-dd
-dryRun: false
-recursiveSearch: false
