@@ -1,0 +1,9 @@
+name: amp-ae-core-subscription-output-core-subscription-state-identifiable-combined-journal-14d
+parentDirs:
+- /group/amp_ae_core_subscription/output/core-subscription-state/identifiable/combined/journal
+retentionDays: '14'
+retentionDirs: '0'
+captureDateRegexp: (20\d{6})
+dateFormat: yyyyMMdd
+dryRun: false
+recursiveSearch: false
