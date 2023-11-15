@@ -53,3 +53,7 @@
   - name: amp-ae-appdata-podcasts-t1-podcasts-v2-730d
     schedule: 0 0 9 * * ?
     concurrency: skip
+
+  - name: amp-ae-appdata-podcasts-t1-xp-amp-podcasts-play-v2-730d
+    schedule: 0 0 10 * * ?
+    concurrency: skip
